@@ -2,7 +2,7 @@
 
 ### A budding Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurbtica&label=Profile views&color=0e75b6&style=flat" alt="kurbtica" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurbtica views&color=0e75b6&style=flat" alt="kurbtica" /> </p>
 
 - 🌱 I'm currently learning **Java**
 
