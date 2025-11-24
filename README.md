@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **msalomon@alwaysdata.net**
 
-- 👨‍💻 All of my projects are available at **[https://msalomon.alwaysdata.net](https://msalomon.alwaysdata.net)**
+- 👨‍💻 My portfolio at **[https://msalomon.alwaysdata.net](https://msalomon.alwaysdata.net)**
 
-- 📝 I regularly write articles on **[https://msalomon.alwaysdata.net](https://msalomon.alwaysdata.net)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
