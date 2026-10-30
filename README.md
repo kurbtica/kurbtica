@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kurbtica
 
-### A budding Python developer
+### A budding web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurbtica views&color=0e75b6&style=flat" alt="kurbtica" /> </p>
 
